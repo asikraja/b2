@@ -1,4 +1,6 @@
 main (String[] ar){
 test method
-test method1
+test method1 
+var
+clsss
 }
