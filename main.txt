@@ -1,2 +1,4 @@
 main (String[] ar){
+test method
+
 }
